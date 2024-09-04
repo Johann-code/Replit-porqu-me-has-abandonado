@@ -1,3 +1,13 @@
+html {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    font-weight: bold;
+    font-family: "Kalam", cursive;
+    background-image: url(4.jpg)
+}
+
 body {
     margin: 0;
     padding: 0;
